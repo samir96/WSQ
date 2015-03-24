@@ -29,4 +29,5 @@ do{
   if(answer==no){
     cout<<"\nThanks, see you!"<<endl;
   }
+  return 0;
 }
